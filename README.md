@@ -1,11 +1,18 @@
 # spam-detection-ml
-Spam detection using Machine Learning and Scikit-learn
 
+Company: Codtech IT Solutions
 
+Name: Tottaramudi Jhansi Victoriya
 
+Intern ID: CTIS1491
 
+Domain: Python Programming
 
+Duration: 4Weeks
 
+Mentor: Neela Santhosh Kumar
+
+Spam detection using Machine Learning and Scikit-learn:
 
 descriptin:
 # Spam Detection System using Machine Learning
