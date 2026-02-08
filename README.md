@@ -56,9 +56,13 @@ I used the **Naive Bayes (MultinomialNB)** algorithm for classification. This al
 
 # Model Evaluation  
 After training, the model was tested on unseen data. Its performance was evaluated using:
-- **Accuracy Score** – Measures overall correctness  
+- **Accuracy Score** – Measures overall correctness
+- <img width="547" height="229" alt="Image" src="https://github.com/user-attachments/assets/cff3d260-61a2-42ea-88c1-ef4518222ca3" />
+
 - **Classification Report** – Shows precision, recall, and F1-score  
-- **Confusion Matrix** – Visual representation of correct and incorrect predictions  
+- **Confusion Matrix** – Visual representation of correct and incorrect predictions
+- <img width="550" height="470" alt="Image" src="https://github.com/user-attachments/assets/0997b502-81cd-4edb-b475-f9c1ffe467a9" />
+
 
 The model achieved high accuracy, showing that it can effectively detect spam messages.
 
